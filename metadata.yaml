@@ -1,4 +1,8 @@
 _repo: Clergymen-and-Doctors-Curious-Facts-and-Characteristic-Sketches_48343
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48343-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48343#Clergymen-and-Doctors-Curious-Facts-and-Characteristic-Sketches
 gutenberg_issued: '2015-02-23'
 gutenberg_type: Text
 identifiers:
